@@ -1,8 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=100&text=Webserv&fontSize=64&fontAlignY=40&fontColor=d6ace6" alt="header" width="100%" />
 
-<p align="right">
-<img src="https://badge42.herokuapp.com/api/project/alesanto/webserv" alt="AlexDos-42" />
-</p>
+
 <p align="right">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
